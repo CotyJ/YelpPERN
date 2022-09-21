@@ -28,3 +28,6 @@ const newfeature = "New Feature!";
 
 // New feature 2
 const newfeature2 = 'new 2!'
+
+// new feature with comment to be deleted later
+const newFeature3 = 3;
