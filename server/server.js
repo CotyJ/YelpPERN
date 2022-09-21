@@ -25,3 +25,6 @@ const feature1 = "Feature 1";
 
 // New feature
 const newfeature = "New Feature!";
+
+// New feature 2
+const newfeature2 = 'new 2!'
