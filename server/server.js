@@ -28,6 +28,7 @@ const newfeature = "New Feature!";
 
 // New feature 2
 const newfeature2 = 'new 2!';
-
-// new feature 3
 const newfeature3 = 3;
+
+// new feature 4, keep practicing
+const newFeature4 = 4444;
