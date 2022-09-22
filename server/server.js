@@ -20,6 +20,7 @@ const newFeature = "New feature";
 
 // readding comment here too
 const new2 = '2';
-
-// adding a 3rd feature
 const new3 = 333;
+
+// new feature 4, will it be the only one?
+const new4 = 4444;
