@@ -18,22 +18,3 @@ app.listen(3000, () => {
   console.log(`\n🌟 Listening on port 3000 🌟\n`);
 });
 
-
-
-// Feature 1 comment
-const feature1 = "Feature 1";
-
-// New feature
-const newfeature = "New Feature!";
-
-// New feature 2
-const newfeature2 = 'new 2!';
-
-// New feature 3
-const newfeature3 = 3;
-
-// New feature 4
-const newFeature4 = 4444;
-
-// new feature 5, will other comments from main stay?
-const newfeature5 = 'five';
