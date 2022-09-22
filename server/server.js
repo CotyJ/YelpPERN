@@ -18,5 +18,8 @@ app.listen(port, () => {
 // readding comment?
 const newFeature = "New feature";
 
-// New feature and comment 2
+// readding comment here too
 const new2 = '2';
+
+// adding a 3rd feature
+const new3 = 333;
