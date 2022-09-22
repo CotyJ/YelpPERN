@@ -1,6 +1,3 @@
-// Entry point for backend application
-// Responsible for creating and initializing Express app
-
 // Necessary for Dotenv to run. Looks for the config file .env
 require("dotenv").config();
 
