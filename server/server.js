@@ -31,6 +31,7 @@ const newfeature2 = 'new 2!';
 
 // New feature 3
 const newfeature3 = 3;
-
-// new feature 4, keep practicing
 const newFeature4 = 4444;
+
+// new feature 5, will other comments from main stay?
+const newfeature5 = 'five';
