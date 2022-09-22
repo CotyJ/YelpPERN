@@ -10,6 +10,4 @@ app.listen(port, () => {
 
 const newfeature = "New Feature!";
 const newfeature2 = 'new 2!';
-
-// new feature 3
 const newfeature3 = 3;
