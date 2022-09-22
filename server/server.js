@@ -9,3 +9,7 @@ app.listen(port, () => {
 });
 
 const newFeature = "New feature";
+
+
+// New feature and comment 2
+const new2 = '2';
