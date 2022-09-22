@@ -15,3 +15,5 @@ app.listen(port, () => {
   console.log(`\n🌟 Listening on port ${port} 🌟\n`);
 });
 
+// New feature!
+const newFeature = "New feature";
