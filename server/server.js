@@ -31,6 +31,8 @@ const newfeature2 = 'new 2!';
 
 // New feature 3
 const newfeature3 = 3;
+
+// New feature 4
 const newFeature4 = 4444;
 
 // new feature 5, will other comments from main stay?
