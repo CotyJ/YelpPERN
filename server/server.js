@@ -11,10 +11,10 @@ const express = require("express");
 const app = express();
 
 // Define the port from .env
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3000;
 
 // Listener with PORT variable and template string.
-app.listen(3000, () => {
-  console.log(`\n🌟 Listening on port 3000 🌟\n`);
+app.listen(port, () => {
+  console.log(`\n🌟 Listening on port ${port} 🌟\n`);
 });
 
